@@ -1,4 +1,4 @@
-# Creating Linux Users & Running a Go HTTP Server on an EC2 Instance
+# Creating Linux Users and Running an HTTP Server on an EC2 Instance
 
 ## Problem Statement
 
