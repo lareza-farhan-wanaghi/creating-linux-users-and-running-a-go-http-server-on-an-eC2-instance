@@ -395,7 +395,7 @@
     ```bash
     sudo nano /etc/hosts
     ```
-Add the line: `<Your EC2 Public IP> domain.tbd`.
+   Add the line: `<Your EC2 Public IP> domain.tbd`.
 
 2. Test the app using its domain in HTTPS mode.
     ```bash
