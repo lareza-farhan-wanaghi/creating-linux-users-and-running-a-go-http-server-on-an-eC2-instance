@@ -1,4 +1,4 @@
-# Creating Linux Users & Running an HTTP Server on an EC2 Instance
+# Creating Linux Users & Running an HTTP Server on an AWS EC2 Instance
 
 ## Problem Statement
 - Create a VM and establish an SSH connection to the VM created.
