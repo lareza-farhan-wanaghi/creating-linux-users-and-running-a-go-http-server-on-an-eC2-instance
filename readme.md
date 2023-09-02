@@ -1,7 +1,7 @@
 # Creating Linux Users & Running an HTTP Server on an EC2 Instance
 
 ## Problem Statement
-
+- Create a VM and establish an SSH connection to the VM created.
 - Create 200 users with usernames in the format of user1-200. Each user is assigned a UID ranging from 1500 to 1699, and their passwords are generated following the pattern uid+username, for instance (1500+user1).
 
 - Establish a request bin at [https://webhook.site](https://webhook.site). Every user created will be directed to the URL of the request bin you configured (HTTP). HTTP request details:
